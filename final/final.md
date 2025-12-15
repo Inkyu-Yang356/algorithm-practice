@@ -40,3 +40,11 @@ Kim
 
 - Input: [4, 1, 2, 1], 4
 - Output: 2
+
+---
+Insight after exam.
+- In the interview, please explain the core things in the code.
+- Why you used this approaches and structures.
+- How did you apply the algorithm.
+- How is A algorithm different from B algorithm (Example)
+- How is A structure different from B structure (Example)
